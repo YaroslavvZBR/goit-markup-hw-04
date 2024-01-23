@@ -69,7 +69,7 @@ address a:focus {
 
 .nav {
     display: flex;
-    gap: 76px;
+    
     align-items: center;
 }
 
